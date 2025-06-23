@@ -29,11 +29,19 @@ A simple **console-based Student Management System** built using **Core Java** a
 
 > 💡 Make sure Java JDK is installed and added to PATH.
 
-### 1. Clone this repository
+ 1. ***Clone this repository***
 
 ```bash
 git clone https://github.com/your-username/StudentManagementProject.git
 cd StudentManagementProject
+
+2.***Compile the java file***
+```bash
+javac studentmanagment/*.java
+
+3.***Run the file***
+```bash
+java studentmanagment.Main
 
 
 
