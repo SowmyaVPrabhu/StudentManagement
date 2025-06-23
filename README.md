@@ -24,7 +24,17 @@ A simple **console-based Student Management System** built using **Core Java** a
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
+## 📂 Folder Structure
 
+StudentManagementProject/
+└── studentmanagment/
+├── Admin.java # Admin user functions
+├── Student.java # Student entity class
+├── User.java # Abstract User base class
+└── Main.java # Main program entry point
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
 ## 🚀 How to Run
 
 > 💡 Make sure Java JDK is installed and added to PATH.
